@@ -17,7 +17,7 @@ def funcion1(angulo,rozamiento,masa1):
       masa2+=0.5
   return result
       
-print(funcion1(30,0.2,16))
+print(funcion1(25,0.4,17))
 
 def funcion2(masa1,masa2,rozamiento):
   for angulo in range(10,86):
